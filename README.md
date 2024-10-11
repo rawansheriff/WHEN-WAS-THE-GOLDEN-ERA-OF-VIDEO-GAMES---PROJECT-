@@ -40,7 +40,7 @@ The outcome of this query reveals the top years based on average critic scores:
 - **1998** tops the list, with an average critic score of **9.32** for 10 games.
 - Other highly regarded years include **2004**, **2002**, **1999**, and **2001**, all with average scores above **8.8**.
 
-**Insight**: The late 1990s and early 2000s appear to have been strong years for critically acclaimed video games. **1998** stands out as the peak, often hailed as a golden year for gaming due to the release of groundbreaking titles like **The Legend of Zelda: Ocarina of Time** and **Half-Life**.
+**Insight**: The late 1990s and early 2000s appear to have been strong years for critically acclaimed video games. **1998** stood out as a golden year for gaming, with an average critic score of 9.32, showcasing legendary titles that defined the era.
 
 ### 3. Golden Era of Gaming: Critics vs Users
 This query compares critic and user scores to identify potential discrepancies and agreement on what constitutes the golden years of gaming:
